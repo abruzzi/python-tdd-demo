@@ -4,3 +4,6 @@ class Calculator:
 			return a + b
 		else:
 			raise ValueError
+
+	def sub(self, a, b):
+		return a - b
