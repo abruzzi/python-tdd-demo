@@ -1,1 +1,3 @@
 tdd/
+app/*.pyc
+test/*.pyc
